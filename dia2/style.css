@@ -1,6 +1,7 @@
-img{    
-    max-width: 500px;
-    max-height: 500px;
+img{
+    max-width: 315px;
+    max-height: 315px;
+    border-radius: 50%;
 }
 
 h1.child-elements-project-life {
