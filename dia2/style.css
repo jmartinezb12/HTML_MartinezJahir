@@ -2,6 +2,14 @@ img{
     max-width: 315px;
     max-height: 315px;
     border-radius: 50%;
+    padding-bottom: 5px;
+    padding-top: 25px;
+}
+
+#first-column{
+    width: 33%;
+    background-color: #323B4C;
+    color: white;
 }
 
 h1.child-elements-project-life {
