@@ -1,15 +1,27 @@
-img{
-    max-width: 315px;
-    max-height: 315px;
-    border-radius: 50%;
+@font-face {
+    font-family: 'Garet'; /*a name to be used later*/
+    src: url('fonts/garet/Garet-Book.ttf'); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'Garet Bold'; /*a name to be used later*/
+    src: url('fonts/garet/Garet-Heavy.ttf'); /*URL to font*/
+}
+
+img {
+    max-width: 270px;
+    max-height: 270px;
+    border-radius: 75%;
     padding-bottom: 5px;
-    padding-top: 25px;
+    padding-top: 40px;
 }
 
 #first-column{
     width: 33%;
+    height: 100%;
     background-color: #323B4C;
     color: white;
+    font-family: 'Garet';
 }
 
 h1.child-elements-project-life {
