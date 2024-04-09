@@ -16,6 +16,10 @@ img {
     padding-top: 40px;
 }
 
+.container{
+    display: flex;
+}
+
 #first-column{
     width: 33%;
     height: 100%;
