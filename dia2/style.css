@@ -24,6 +24,11 @@ img {
     font-family: 'Garet';
 }
 
+#second-column{
+    width: 67%;
+    height: 100%;
+}
+
 h1.child-elements-project-life {
     text-align: center;
 }
